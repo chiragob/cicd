@@ -1,0 +1,24 @@
+{
+  "name": "cicd",
+  "version": "1.0.0",
+  "description": "cicd",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/chiragob/cicd.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/chiragob/cicd/issues"
+  },
+  "homepage": "https://github.com/chiragob/cicd#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "mocha": "^5.2.0",
+    "supertest": "^3.3.0"
+  }
+}
